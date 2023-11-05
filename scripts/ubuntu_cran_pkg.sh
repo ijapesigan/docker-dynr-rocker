@@ -12,7 +12,6 @@ install2.r --error --skipinstalled -n -1 \
   knitr          \
   languageserver \
   latex2exp      \
-  lme4           \
   magrittr       \
   MASS           \
   Matrix         \
