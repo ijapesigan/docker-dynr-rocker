@@ -98,3 +98,7 @@ apt_install    \
 # qgraph
 apt_install   \
   libglpk-dev
+
+# cran
+apt_install   \
+  r-cran-lme4
