@@ -100,5 +100,5 @@ apt_install   \
   libglpk-dev
 
 # cran
-apt_install   \
-  r-cran-lme4
+# apt_install   \
+#  r-cran-lme4 # for arm64 build
